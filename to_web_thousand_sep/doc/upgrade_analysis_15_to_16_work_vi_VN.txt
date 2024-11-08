@@ -1,4 +1,0 @@
----Classes in module ---
-
-FILE: to_web_thousand_sep/__init__.py
-

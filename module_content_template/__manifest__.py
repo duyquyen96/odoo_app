@@ -42,20 +42,6 @@ Mặc định, hệ thống chỉ hiển thị dấu phân cách hàng nghìn sa
     """,
 
     'depends': ['web'],
-    'assets': {
-        'web.assets_backend': [
-            'to_web_thousand_sep/static/src/js/float_field.js',
-            'to_web_thousand_sep/static/src/js/monetary_field.js',
-            ],
-        'web.assets_common': [
-            'to_web_thousand_sep/static/src/js/utils.js',
-            'to_web_thousand_sep/static/src/js/auto.js'
-            ],
-        'web.assets_frontend': [
-            'to_web_thousand_sep/static/src/js/utils.js',
-            'to_web_thousand_sep/static/src/js/auto.js'
-            ]
-        },
     'images': ['static/description/main_screenshot.png'],
     'installable': True,
     'auto_install': True,
