@@ -1,6 +1,6 @@
 {
-    'name': 'App preview index html v01',
-    'name_vi_VN': 'App preview index html v01',
+    'name': 'App preview index html v02',
+    'name_vi_VN': 'App preview index html v02',
     'version': '0.1.0',
     'category': 'Productivity',
     'author': "T.V.T Marine Automation (aka TVTMA),Viindoo",
