@@ -1,6 +1,6 @@
 {
-    'name': 'Web Thousand Separators',
-    'name_vi_VN': 'Dấu phân cách hàng nghìn',
+    'name': 'App preview index html',
+    'name_vi_VN': 'App preview index html',
     'version': '0.1.0',
     'category': 'Productivity',
     'author': "T.V.T Marine Automation (aka TVTMA),Viindoo",
@@ -10,7 +10,7 @@
     'demo_video_url': "https://youtu.be/gBVDAPoCOK8",
     'support': 'apps.support@viindoo.com',
     'sequence': 10,
-    'summary': 'Format numbers with thousand separators on-fly.',
+    'summary': 'Preview app index html',
     'summary_vi_VN': 'Hiển thị dấu phân cách hàng nghìn ngay tại thời điểm nhập số liệu',
     'description': """
 Demo video: `Web Thousand Separators <https://youtu.be/gBVDAPoCOK8>`_
